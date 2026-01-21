@@ -20,3 +20,18 @@ git log --all --graph --oneline --decorate
 ## Calculator
 
 Create a calculator python application that reads 2 numbers from the standard input, and writes those sum to the standard output.
+
+1. Write the development environment creation in [`readme.md`](/readme.md#development-environment)
+2. Write some examples how to start/use the application (ie [Usage](/readme.md#usage))
+3. Add [`.gitignore`](/.gitignore) to avoid accidentally add some files to your repository
+
+### Umbrella
+
+1. Create a GH project ie [CÉH GitHub Python - Calculator](https://github.com/users/schjan79/projects/1/settings)
+2. Assign your repository as default to the
+3. Create a [milestone](https://github.com/schjan79/ceh-github-python/milestone/1)
+
+
+## Issues
+
+Create an [new issue](/../../issues/new?title=formatting) for formatting expectation.
